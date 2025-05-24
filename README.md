@@ -14,7 +14,7 @@ I'm a Ph.D. student at the Southwest United Graduate School, Yunnan University, 
 
 ## 🧭 Research Projects
 
-- **Yunnan Provincial Department of Education Project (2024, PI)**  
+- **Yunnan Provincial Department of Education Project (2024, Project leader)**  
   "Chassis Engineering of *Aspergillus oryzae* for the Combinatorial Biosynthesis and Application of Dimeric Meroterpenoids from *Albatrellus* sp."
 
 - **National Natural Science Foundation of China (NSFC) General Program (2024, participant)**  
