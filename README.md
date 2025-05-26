@@ -25,10 +25,5 @@ I'm a Ph.D. student at the Southwest United Graduate School, Yunnan University, 
 ## 📚 Publications
 
 - Structural and Computational Insights into the Noncanonical Aromatization in Fungal Polyketide Biosynthesis. **ACS Catalysis (2024)**
-- New meroterpenoids and polyketides from the endophytic fungus *Paraphaeosphaeria* sp. C-XB-J-1 and their anti-inflammatory and SARS-CoV-2 Mpro inhibitory activities. **Bioorganic Chemistry (2024)**
 
 ---
-
-## 📬 Contact
-
-**Email**: chaopeng@stu.ynu.edu.cn  
