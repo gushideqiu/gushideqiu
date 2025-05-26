@@ -31,5 +31,5 @@ I'm a Ph.D. student at the Southwest United Graduate School, Yunnan University, 
 
 ## 📬 Contact
 
-**Email**: taopeng@stu.ynu.edu.cn  
+**Email**: chaopeng@stu.ynu.edu.cn  
 Always happy to connect and collaborate on genome mining or fungal biosynthesis!
